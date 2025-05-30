@@ -1,5 +1,5 @@
-<h1 align="center">Greetings👋, I'm Muhammad Aamir Malik</h1>
-<h3 align="center">Full Stack Hybrid App Developer | JavaScript Engineer | AWS Enthusiast</h3>
+<h1 align="center">Greetings👋, I'm Olaf</h1>
+<h3 align="center">Full Stack & Blockchain Developer</h3>
 
 <P>I'm a seasoned Full Stack Hybrid App Developer with expertise in React Native and JavaScript. My journey spans over 3 years, during which I've honed my skills and specialized in crafting exceptional mobile applications. I'm also well-versed in AWS Services, allowing me to build robust and scalable solutions. With a successful track record of delivering projects to satisfied clients across the globe, I'm dedicated to creating impactful and user-centric applications that drive results.</P>
 <h1></h1> 
