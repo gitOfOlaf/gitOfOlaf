@@ -14,14 +14,9 @@
 
 
 
-# <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools:
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="left">
-<a href="https://twitter.com/subhadeepzilong" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/twitter.svg" alt="subhadeepzilong" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/subhadeep-chakraborty-b341a8191" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="subhadeep-chakraborty-b341a8191" height="30" width="40" /></a>
-<a href="https://fb.com/subhadeep.chakraborty.555" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/facebook.svg" alt="subhadeep.chakraborty.555" height="30" width="40" /></a>
-<a href="https://instagram.com/subhadeepzilong" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" alt="subhadeepzilong" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/subhadeepchakra3" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/hackerrank.svg" alt="subhadeepchakra3" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/subhadeepchakraborty555" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/geeks-for-geeks.svg" alt="subhadeepchakraborty555" height="30" width="40" /></a>
 <a href="https://leetcode.com/subhadeepchakraborty555/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/leet-code.svg" alt="subhadeepchakraborty555" height="30" width="40" /></a>
