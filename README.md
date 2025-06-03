@@ -7,14 +7,12 @@
 
  <p><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering;Full+Stack+And+Blockchain+Developer;Always+learning+new+things&center=true&width=500&height=50&font-size=100"></p>
 
-<p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
 
 <h1 align="center">FullStack & Web3 & BlockChain</h1>
 <p align="center"> 
     <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" alt="linux" width="60" height="60"/>
     <img src="https://docs.soliditylang.org/en/v0.8.11/_static/logo.svg" alt="linux" width="60" height="60"/>
-<!--     <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="linux" width="60" height="60"/> -->
     <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" alt="linux" width="60" height="60"/>
 </p>
 <p align="center"> 
