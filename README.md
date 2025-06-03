@@ -5,7 +5,7 @@
 
 
 
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering;Full+Stack+&+Blockchain+Developer;Always+learning+new+things&center=true&width=500&height=50&font-size=100"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering;Full+Stack+And+Blockchain+Developer;Always+learning+new+things&center=true&width=500&height=50&font-size=100"></a>
 
 <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
