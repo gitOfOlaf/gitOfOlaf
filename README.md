@@ -19,7 +19,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>   
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>  
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg](https://lottiefiles.com/free-animation/react-logo-iD74FPhCKX" alt="react" width="60" height="60"/>  
+	<img src="https://lottiefiles.com/free-animation/react-logo-iD74FPhCKX.svg" alt="react" width="60" height="60"/>  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/>  
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="60" height="60"/>   
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="60" height="60"/> 
